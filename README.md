@@ -27,8 +27,9 @@ Find me at:
  
 ## What should students bring?
 
-* A functioning and fully charged laptop with *XCode* installed.
-* openFrameworks (please download and install from the [website](http://openframeworks.cc/download/)).
+* A functioning and fully charged laptop with [your IDE of choice](http://openframeworks.cc/download/) installed.
+* openFrameworks (please download and install from the [website](http://openframeworks.cc/download/)). Follow the instructions to your OS and chosen IDE.
+* If you're wondering which IDE to choose from, for this class I recommend to have XCode on Mac or Codeblocks on Windows.
 
 
 ## Course Overview
